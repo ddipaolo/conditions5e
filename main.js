@@ -27,6 +27,34 @@ CONFIG.statusEffects = [
   "modules/conditions5e/icons/deafened.svg",
   "modules/conditions5e/icons/diseased.svg",
   "modules/conditions5e/icons/exhaustion5.svg"
+    // spells
+    "modules/conditions5e/icons/bane.svg",
+    "modules/conditions5e/icons/barkskin.svg",
+    "modules/conditions5e/icons/bless.svg",
+    "modules/conditions5e/icons/darkvision.svg",
+
+    "modules/conditions5e/icons/dragon-breath.svg",
+    "modules/conditions5e/icons/enhance-ability.svg",
+    "modules/conditions5e/icons/faerie-fire.svg",
+    "modules/conditions5e/icons/fire-shield.svg",
+
+    "modules/conditions5e/icons/foresight.svg",
+    "modules/conditions5e/icons/fortunes-favor.svg",
+    "modules/conditions5e/icons/freedom-of-movement.svg",
+    "modules/conditions5e/icons/guiding-bolt.svg",
+
+    "modules/conditions5e/icons/haste.svg",
+    "modules/conditions5e/icons/heat-metal.svg",
+    "modules/conditions5e/icons/heroism.svg",
+    "modules/conditions5e/icons/hex.svg",
+
+    "modules/conditions5e/icons/hunters-mark.svg",
+    "modules/conditions5e/icons/mage-armor.svg",
+    "modules/conditions5e/icons/pass-without-trace.svg",
+    "modules/conditions5e/icons/shillelagh.svg",
+
+    "modules/conditions5e/icons/slow.svg",
+    "modules/conditions5e/icons/vicious-mockery.svg",
 ];
   
 // Condition Types
@@ -54,6 +82,30 @@ CONFIG.conditionTypes = {
   "stunned": "Stunned",
   "unconscious": "Unconscious",
   "wounded": "Wounded"
+    // spell effects
+    "bane": "Bane",
+    "barkskin", "Barkskin",
+    "beaconOfHope", "Beacon of Hope",
+    "bless", "Bless",
+    "darkvision", "Darkvision",
+    "dragonsBreath", "Dragon's Breath",
+    "enhanceAbility", "Enhance Ability",
+    "faerieFire", "Faerie Fire",
+    "fireShield", "Fire Shield",
+    "foresight", "Foresight",
+    "fortunesFavor", "Fortune's Favor",
+    "freedomOfMovement", "Freedom of Movement",
+    "guidingBolt", "Guiding Bolt",
+    "haste", "Haste",
+    "heatMetal", "Heat Metal",
+    "heroism", "Heroism",
+    "hex", "Hex",
+    "huntersMark", "Hunter's Mark",
+    "mageArmor", "Mage Armor",
+    "passWithoutTrace", "Pass Without Trace",
+    "shillelagh", "Shillelagh",
+    "slow", "Slow",
+    "viciousMockery", "Vicious Mockery"
 };
 
 // Replace selected control icons
